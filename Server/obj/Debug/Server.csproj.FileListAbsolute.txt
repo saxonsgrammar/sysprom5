@@ -1,0 +1,7 @@
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Server\bin\Debug\Server.exe.config
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Server\bin\Debug\Server.exe
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Server\bin\Debug\Server.pdb
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Server\obj\Debug\Server.exe
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Server\obj\Debug\Server.pdb

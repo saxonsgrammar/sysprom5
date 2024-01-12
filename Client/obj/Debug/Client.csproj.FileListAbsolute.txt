@@ -1,0 +1,7 @@
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Client\bin\Debug\Client.exe.config
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Client\bin\Debug\Client.exe
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Client\bin\Debug\Client.pdb
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Client\obj\Debug\Client.exe
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Client\obj\Debug\Client.pdb
+C:\Users\Mcintosh\Downloads\СетПром\3\Home\Client\obj\Debug\Client.csproj.AssemblyReference.cache
